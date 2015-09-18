@@ -1,0 +1,1 @@
+module.usuario = require("./usuario.js");
